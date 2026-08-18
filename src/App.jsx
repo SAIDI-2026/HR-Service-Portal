@@ -154,7 +154,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
           <div className="flex items-center space-x-4 space-x-reverse">
             <img 
-              src="/logo.png" 
+              src="/logo.jpeg" 
               alt="شعار الشركة" 
               className="h-12 w-auto object-contain"
               onError={(e) => { e.target.style.display = 'none'; }}
